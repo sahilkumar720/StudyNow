@@ -1,5 +1,5 @@
 import React from 'react'
-import '../app.css'
+
 
 import { SiViaplay } from "react-icons/si";
 import { TbDeviceDesktopAnalytics } from "react-icons/tb";
