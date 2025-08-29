@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+:root{
+
+    --my-radius : 30% 70% 64% 36% / 34% 42% 58% 66%;
+    
+}
+/* 
+@theme{
+
+ --animate-waterwave :  'waterwave 1s easy-in-out infinite'
+
+    
+
+}
+
+
+
+@keyframes waterwave {
+    0%{
+        border:30% 70% 64% 36% / 34% 42% 58% 66% ;
+    }
+    50%{
+        border:73% 27% 59% 41% / 36% 69% 31% 64%  ;
+
+    }
+    100%{
+        border:30% 70% 64% 36% / 34% 42% 58% 66% ;
+
+    }
+    
+} */
