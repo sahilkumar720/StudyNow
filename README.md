@@ -1,13 +1,16 @@
 🚀 Study Now: AI-Powered Learning Management System 💻
 [Live Demo](https://studynow1.onrender.com)
 
+
 🌟 Overview
 Welcome to Study Now, an AI-powered Learning Management System (LMS) designed to make education more accessible, personalized, and engaging. This full-stack web application is built on the robust MERN stack and integrates cutting-edge AI features from the Gemini API to offer a revolutionary learning experience. Whether you're a student looking to master a new subject or an educator eager to share your knowledge, "Study Now" provides all the tools you need to succeed in the digital learning space.
 
 The platform's design focuses on user-centricity, from flexible sign-up options to an intuitive voice-activated search feature. Course content is securely managed, and personal dashboards provide valuable insights into your progress. "Study Now" isn't just a website; it's a complete ecosystem built for the future of online education.
 
+
 🚀 Key Features
 "Study Now" comes packed with a range of powerful features to enhance both the student and educator experience.
+
 
 ➜ Secure Authentication 🔑
 
@@ -17,17 +20,20 @@ The platform's design focuses on user-centricity, from flexible sign-up options 
 
 ● Password Reset: Easily reset your password via a secure email verification link, so you never lose access to your account.
 
+
 ➜ Intelligent AI Assistant ✨
 
 ● Voice-Powered Search: Effortlessly find courses using your voice. The advanced Gemini API allows you to search for courses and content using natural language.
 
 ● Multilingual Support: The AI assistant understands multiple languages, including local languages like Hindi, making it accessible to a wider audience. Simply speak your query in your preferred language to find what you're looking for.
 
-● Personalized Dashboards & Progress Tracking 📊
+
+➜ Personalized Dashboards & Progress Tracking 📊
 
 ● Course Enrollment Charts: Visualize your academic journey with interactive charts that show the number of courses you are enrolled in.
 
 ● My Courses: A dedicated section where you can view all the courses you have purchased and are currently enrolled in.
+
 
 ➜ Comprehensive Course Management 📚
 
@@ -37,13 +43,16 @@ The platform's design focuses on user-centricity, from flexible sign-up options 
 
 ● Ratings & Reviews: A dedicated review section allows students to provide feedback on courses and educators, helping other users make informed decisions.
 
+
 ➜ Upload and Manage Content ☁️
 
 ● Cloudinary Integration: Educators can easily upload lectures, photos, and other course materials to the cloud, ensuring high availability and performance.
 
+
 ➜ Effortless Payments 💳
 
 ● Razorpay Gateway: Secure and seamless payment processing is handled by Razorpay, allowing students to purchase courses with confidence.
+
 
 💻 Technologies Used
 
