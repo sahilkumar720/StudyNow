@@ -84,4 +84,8 @@ This project is built using a modern and powerful tech stack to deliver a fast, 
 
 ● Razorpay: Integrated for handling all payment transactions securely.
 
+✨Live Demo ➜
+
+Experience the StudyNow yourself!
+
 [Live Demo](https://studynow1.onrender.com)
